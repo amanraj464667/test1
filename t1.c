@@ -8,7 +8,10 @@ int main()
   printf("sum = %d",a+b);
 }
   
-  sub();
+  sub()
+{
+	printf("diff = %d",a-b);
+}
   mul();
   div();
 }
