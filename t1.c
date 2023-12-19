@@ -15,3 +15,4 @@ int main()
   mul();
   div();
 }
+********\ngood afternoon
